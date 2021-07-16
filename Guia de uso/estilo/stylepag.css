@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #5c3121;
+}
+iframe#descricao{
+    display: block;
+    float: right;
+    width: 500px;
+    height: 470px;
+    margin-right: 50px;
+    margin-top: 35px;
+    box-shadow: 2px 2px 2px 2px ;
+    
+}
+footer{
+text-align: center;
+}
+article{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 500px;
+    background-color: black;
+}
+article h2{
+    font-size: 20pt;
+    text-align: center;
+    color: white;
+
+}
+article p{
+    font-size: 13pt;
+    text-align: left;
+    color: whitesmoke;
+}
+#voltar{
+    color:#1f3985;
+    background-color: #df0d0d8e;
+}
